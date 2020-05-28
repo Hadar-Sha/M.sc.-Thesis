@@ -2,6 +2,8 @@
 ## Motivation
 ## Hiding Scheme
 ![hiding scheme image](images/Our-Filter.png)
+## Simple Vs. Ambiguous data samples
+![Simple Vs Ambiguous image](images/simple-vs-ambiguous.png)
 ## Data Representation
 ![Data Representation image](images/data-representation.png)
 ## Classification of seen image

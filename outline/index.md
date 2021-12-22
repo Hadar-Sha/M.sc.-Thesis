@@ -9,6 +9,8 @@
 ![Goal-2](images/goal-im2.png)
 ## Teaser - Generator's output
 ![Generator's output image](images/GAN-output.png)
+## First approach - deterministic function
+![deterministic function image](images/deterministic-function.png)
 ## Simple Vs. Ambiguous data samples
 ![Simple Vs Ambiguous image](images/simple-vs-ambiguous.png)
 ![perception vs. color distance](images/perc-vs-color-dist.png)
